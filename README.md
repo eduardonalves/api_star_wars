@@ -28,7 +28,7 @@ Acesso:
 
 Exemplo de pesquisa de planeta por nome:
 <ul>
-	http://127.0.0.1:8000/planets/?name=Alderaan
+	<li>http://127.0.0.1:8000/planets/?name=Alderaan</li>
 </ul>
 
 
