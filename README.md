@@ -16,7 +16,7 @@ Requisitos:
 Instalação:
 
 <ul>
-	<li>Configurar a variável DATABASES dentro arquivo settings.py Mongo DB</li>
+	<li>Configurar a constante DATABASES dentro arquivo settings.py Mongo DB</li>
 	<li>Rodar o comando python manage.py migrate </li>
 	<li>Rodar o comando python manage.py runserver para subir o servidor</li>
 </ul>
