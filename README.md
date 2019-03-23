@@ -1,7 +1,7 @@
 # api_star_wars
 A uma API Star Wars com Django e Mongo DB
 
-Requisitos
+Requisitos:
 
 <ul>
 <li>Python 3 </li>
@@ -13,7 +13,7 @@ Requisitos
 
 </ul>
 
-Instalação
+Instalação:
 
 <ul>
 	<li>Configurar a variável DATABASES dentro arquivo settings.py Mongo DB</li>
@@ -21,10 +21,16 @@ Instalação
 	<li>Rodar o comando python manage.py runserver para subir o servidor</li>
 </ul>
 
-Acesso
+Acesso:
 <ul>
 	<li>http://127.0.0.1:8000/planets/</li>
 </ul>
+
+Exemplo de pesquisa de planeta por nome:
+<ul>
+	http://127.0.0.1:8000/planets/?name=Alderaan
+</ul>
+
 
 
 
